@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "11faf81f-fd50-487a-914a-77e65b601e4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sichuan_room_huatong_001": {
+      "ver": "1.0.3",
+      "uuid": "fe018916-8d36-4dd9-9c68-6b28ff576ad8",
+      "rawTextureUuid": "11faf81f-fd50-487a-914a-77e65b601e4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 54,
+      "height": 55,
+      "rawWidth": 54,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
